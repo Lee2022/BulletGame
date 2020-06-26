@@ -58,23 +58,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11160}
+      Script: {instanceID: 11152}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11244}
     - Class: 114
-      Script: {instanceID: 11322}
+      Script: {instanceID: 11314}
     - Class: 114
-      Script: {instanceID: 11372}
+      Script: {instanceID: 11364}
     - Class: 114
-      Script: {instanceID: 11746}
+      Script: {instanceID: 11738}
     - Class: 114
-      Script: {instanceID: 12188}
+      Script: {instanceID: 11810}
     - Class: 114
-      Script: {instanceID: 12608}
+      Script: {instanceID: 12182}
     - Class: 114
-      Script: {instanceID: 12956}
+      Script: {instanceID: 12602}
     - Class: 114
-      Script: {instanceID: 28256}
+      Script: {instanceID: 12950}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -308,6 +308,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 340446d57eb7a8b77930ef0a22bfa8c8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
   - hash:
       serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
@@ -550,11 +556,11 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 340446d57eb7a8b77930ef0a22bfa8c8
+      Hash: 05051aab5644a66bdf7c1cf6bb567f68
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: GameManager
+    className: TurtleAnimControll
   platform: 5
   scenePathNames:
   - Assets/Cartoon Cat/Cartoon Cat.unity
-  playerPath: C:/Users/user/Desktop/BulletGame/New Unity Project (2).exe
+  playerPath: C:/Users/user/Desktop/BulletGame/exe/New Unity Project (2).exe
